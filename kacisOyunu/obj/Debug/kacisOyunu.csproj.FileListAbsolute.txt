@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\My files\BSM cours\2. sinif\1. donem\N.D.P\kacisOyunu\kacisOyunu\bin\Debug\kacisOyunu.exe
+C:\Users\lenovo\Desktop\My files\BSM cours\2. sinif\1. donem\N.D.P\kacisOyunu\kacisOyunu\bin\Debug\kacisOyunu.exe.config
+C:\Users\lenovo\Desktop\My files\BSM cours\2. sinif\1. donem\N.D.P\kacisOyunu\kacisOyunu\obj\Debug\kacisOyunu.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\My files\BSM cours\2. sinif\1. donem\N.D.P\kacisOyunu\kacisOyunu\obj\Debug\kacisOyunu.AnaForm.resources
+C:\Users\lenovo\Desktop\My files\BSM cours\2. sinif\1. donem\N.D.P\kacisOyunu\kacisOyunu\obj\Debug\kacisOyunu.Properties.Resources.resources
+C:\Users\lenovo\Desktop\My files\BSM cours\2. sinif\1. donem\N.D.P\kacisOyunu\kacisOyunu\obj\Debug\kacisOyunu.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\My files\BSM cours\2. sinif\1. donem\N.D.P\kacisOyunu\kacisOyunu\obj\Debug\kacisOyunu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\My files\BSM cours\2. sinif\1. donem\N.D.P\kacisOyunu\kacisOyunu\obj\Debug\kacisOyunu.exe
+C:\Users\lenovo\Desktop\My files\BSM cours\2. sinif\1. donem\N.D.P\kacisOyunu\kacisOyunu\obj\Debug\kacisOyunu.pdb
+C:\Users\lenovo\Desktop\My files\BSM cours\2. sinif\1. donem\N.D.P\kacisOyunu\kacisOyunu\bin\Debug\kacisOyunu.pdb
+C:\Users\lenovo\Desktop\My files\BSM cours\2. sinif\1. donem\N.D.P\kacisOyunu\kacisOyunu\obj\Debug\kacisOyunu.Form2.resources
+C:\Users\lenovo\Desktop\My files\BSM cours\2. sinif\1. donem\N.D.P\kacisOyunu\kacisOyunu\obj\Debug\kacisOyunu.Form1.resources
